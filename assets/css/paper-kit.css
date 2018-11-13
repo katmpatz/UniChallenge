@@ -8824,14 +8824,16 @@ textarea.form-control {
 }
 
 .page-header {
-  background-color: #fff
-  background-position: center center;
+  background-color: #fff;
+  background-position: center;
   background-size: cover;
   min-height: 100vh;
-  max-height: 999px;
+  height: 100%;
   overflow: hidden;
   position: relative;
-  width: 100%;
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
   z-index: 1;
 }
 

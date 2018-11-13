@@ -19,6 +19,25 @@
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="assets/demo/demo.css" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css?family=Comfortaa|Source+Sans+Pro" rel="stylesheet">
+  <style>
+  .bg {
+  /* The image used */
+  background-image: url('assets/img/background2.jpg');
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+@media screen and (max-width: 1024px) {
+  .bg {
+    background-image: url('assets/img/triangles_vertical.jpg');
+  }
+}
+  </style>
 </head>
 
 <body class="landing-page presentation-page sidebar-collapse">
@@ -50,7 +69,7 @@
     </div>
   </nav>
   <!-- End Navbar -->
-  <div class="page-header" data-parallax="true" style="background-image: url('assets/img/background3.jpg');">
+  <div class="bg page-header" data-parallax="true" style="">
     <div class="filter"></div>
     <div class="content-center">
       <div class="container">
