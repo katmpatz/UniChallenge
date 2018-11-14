@@ -14,5 +14,5 @@ We make groups, find problems and create solutions to improve our university.
 # Our team
 We are students from all of AUEB's departments with willingness to contribute and improve our everyday experience in the university. Emphasizing on cooperation and innovation, we invite all students to take part in our attempt.
 
-# Contact us
+# Join us
 Fill in our [google form](https://docs.google.com/forms/d/e/1FAIpQLSd8CPvoC7uwcMErgtebfokAWPKE8pVLxQBsqU61Lk6qlMEq5w/viewform "UniChallenge's google form").
